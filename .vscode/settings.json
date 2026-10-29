@@ -1,4 +1,7 @@
 {
+  "python.languageServer": "Pylance",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.extraPaths": ["src"],
   "mypy-type-checker.args": ["--strict"],
   "mypy-type-checker.importStrategy": "fromEnvironment",
   "[python]": {

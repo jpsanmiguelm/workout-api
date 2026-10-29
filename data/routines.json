@@ -1,0 +1,127 @@
+[
+  {
+    "id": "rutina-a",
+    "name": "Rutina A",
+    "focus": null,
+    "order": 1,
+    "scheduledWeekday": null,
+    "archived": true,
+    "exercises": [
+      { "exerciseId": "remo-una-mano", "order": 1, "setsOverride": 4, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 120 },
+      { "exerciseId": "press-plano-mancuernas", "order": 2, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 105 },
+      { "exerciseId": "sentadilla-goblet", "order": 3, "setsOverride": null, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 105 },
+      { "exerciseId": "curl-inclinado-45", "order": 4, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 75 },
+      { "exerciseId": "overhead-extension", "order": 5, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "vuelos-laterales", "order": 6, "setsOverride": 3, "repsMinOverride": 12, "repsMaxOverride": 15, "restSecondsOverride": 60 },
+      { "exerciseId": "leg-raises", "order": 7, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 45 },
+      { "exerciseId": "plancha", "order": 8, "setsOverride": 2, "repsMinOverride": 45, "repsMaxOverride": 60, "restSecondsOverride": 45 }
+    ]
+  },
+  {
+    "id": "rutina-b",
+    "name": "Rutina B",
+    "focus": null,
+    "order": 2,
+    "scheduledWeekday": null,
+    "archived": true,
+    "exercises": [
+      { "exerciseId": "press-inclinado-30", "order": 1, "setsOverride": 4, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 105 },
+      { "exerciseId": "remo-apoyado-45", "order": 2, "setsOverride": 4, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "press-militar-sentado", "order": 3, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "fondos-entre-banco", "order": 4, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "martillo-inclinado-45", "order": 5, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 75 },
+      { "exerciseId": "vuelos-laterales", "order": 6, "setsOverride": 3, "repsMinOverride": 12, "repsMaxOverride": 15, "restSecondsOverride": 60 },
+      { "exerciseId": "elevacion-talones", "order": 7, "setsOverride": null, "repsMinOverride": 12, "repsMaxOverride": 20, "restSecondsOverride": 50 },
+      { "exerciseId": "leg-raises", "order": 8, "setsOverride": 2, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 45 },
+      { "exerciseId": "plancha", "order": 9, "setsOverride": 2, "repsMinOverride": 45, "repsMaxOverride": 60, "restSecondsOverride": 45 }
+    ]
+  },
+  {
+    "id": "rutina-c",
+    "name": "Rutina C",
+    "focus": null,
+    "order": 3,
+    "scheduledWeekday": null,
+    "archived": true,
+    "exercises": [
+      { "exerciseId": "peso-muerto-rumano", "order": 1, "setsOverride": null, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 105 },
+      { "exerciseId": "dominadas-negativas", "order": 2, "setsOverride": 4, "repsMinOverride": 3, "repsMaxOverride": 5, "restSecondsOverride": 90 },
+      { "exerciseId": "zancada-bulgara", "order": 3, "setsOverride": null, "repsMinOverride": 10, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "aperturas-banco", "order": 4, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "curl-inclinado-45", "order": 5, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 75 },
+      { "exerciseId": "overhead-extension", "order": 6, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "vuelos-laterales", "order": 7, "setsOverride": 3, "repsMinOverride": 12, "repsMaxOverride": 15, "restSecondsOverride": 60 },
+      { "exerciseId": "leg-raises", "order": 8, "setsOverride": null, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 45 },
+      { "exerciseId": "plancha", "order": 9, "setsOverride": null, "repsMinOverride": 45, "repsMaxOverride": 60, "restSecondsOverride": 45 }
+    ]
+  },
+  {
+    "id": "empuje-a",
+    "name": "Empuje A",
+    "focus": null,
+    "order": 1,
+    "scheduledWeekday": 1,
+    "archived": false,
+    "exercises": [
+      { "exerciseId": "press-plano-mancuernas", "order": 1, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 105 },
+      { "exerciseId": "press-militar-sentado", "order": 2, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "sentadilla-goblet", "order": 3, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 90 },
+      { "exerciseId": "aperturas-banco", "order": 4, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "vuelos-laterales", "order": 5, "setsOverride": 3, "repsMinOverride": 12, "repsMaxOverride": 20, "restSecondsOverride": 60 },
+      { "exerciseId": "overhead-extension", "order": 6, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "martillo-inclinado-45", "order": 7, "setsOverride": 2, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "leg-raises", "order": 8, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 45 }
+    ]
+  },
+  {
+    "id": "jalon-a",
+    "name": "Jalón A",
+    "focus": null,
+    "order": 2,
+    "scheduledWeekday": 2,
+    "archived": false,
+    "exercises": [
+      { "exerciseId": "peso-muerto-rumano", "order": 1, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 105 },
+      { "exerciseId": "dominadas-negativas", "order": 2, "setsOverride": 3, "repsMinOverride": 4, "repsMaxOverride": 8, "restSecondsOverride": 135 },
+      { "exerciseId": "remo-apoyado-45", "order": 3, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "curl-inclinado-45", "order": 4, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "vuelos-laterales", "order": 5, "setsOverride": 3, "repsMinOverride": 12, "repsMaxOverride": 20, "restSecondsOverride": 60 },
+      { "exerciseId": "press-frances", "order": 6, "setsOverride": 2, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "leg-raises", "order": 7, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 45, "note": "Si el agarre falla, hazlo acostado en el banco." }
+    ]
+  },
+  {
+    "id": "empuje-b",
+    "name": "Empuje B",
+    "focus": null,
+    "order": 3,
+    "scheduledWeekday": 4,
+    "archived": false,
+    "exercises": [
+      { "exerciseId": "press-inclinado-30", "order": 1, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 105 },
+      { "exerciseId": "zancada-bulgara", "order": 2, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "fondos-entre-banco", "order": 3, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "aperturas-banco", "order": 4, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "vuelos-laterales", "order": 5, "setsOverride": 3, "repsMinOverride": 12, "repsMaxOverride": 20, "restSecondsOverride": 60 },
+      { "exerciseId": "curl-inclinado-45", "order": 6, "setsOverride": 2, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "leg-raises", "order": 7, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 45 }
+    ]
+  },
+  {
+    "id": "jalon-b",
+    "name": "Jalón B",
+    "focus": null,
+    "order": 4,
+    "scheduledWeekday": 5,
+    "archived": false,
+    "exercises": [
+      { "exerciseId": "dominadas-negativas", "order": 1, "setsOverride": 3, "repsMinOverride": 4, "repsMaxOverride": 8, "restSecondsOverride": 135 },
+      { "exerciseId": "remo-una-mano", "order": 2, "setsOverride": 3, "repsMinOverride": 8, "repsMaxOverride": 12, "restSecondsOverride": 90 },
+      { "exerciseId": "martillo-inclinado-45", "order": 3, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "elevacion-talones", "order": 4, "setsOverride": 3, "repsMinOverride": 12, "repsMaxOverride": 20, "restSecondsOverride": 50 },
+      { "exerciseId": "vuelos-laterales", "order": 5, "setsOverride": 3, "repsMinOverride": 12, "repsMaxOverride": 20, "restSecondsOverride": 60 },
+      { "exerciseId": "overhead-extension", "order": 6, "setsOverride": 2, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 75 },
+      { "exerciseId": "leg-raises", "order": 7, "setsOverride": 3, "repsMinOverride": 10, "repsMaxOverride": 15, "restSecondsOverride": 45, "note": "Si el agarre falla, hazlo acostado en el banco." }
+    ]
+  }
+]
