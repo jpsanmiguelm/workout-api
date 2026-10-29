@@ -21,14 +21,14 @@ class ExerciseLog(CamelModel):
     @property
     def average_rpe(self) -> float | None:
         rpes = [s.rpe for s in self.sets if s.rpe is not None]
-        if len(rpes) == 0:
+        if not rpes:
             return None
         return sum(rpes) / len(rpes)
 
     @property
     def max_weight_kg(self) -> float | None:
         return max(
-            (log.weight_kg for log in self.sets if log.weight_kg is not None),
+            (s.weight_kg for s in self.sets if s.weight_kg is not None),
             default=None,
         )
 
